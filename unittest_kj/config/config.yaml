@@ -1,0 +1,11 @@
+#数据库配置，软件系统的用户名，密码，host等信息
+#每组变量都需要起名，参数：（空格） 参数值
+user1:
+  username: admin
+  password: admin999
+  url: http://123.57.140.190/manage/index.php
+
+user2:
+  username: admin
+  password: admin
+  url: http://123.57.140.190/manage/index.php

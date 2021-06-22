@@ -1,0 +1,104 @@
+1623119831839	geckodriver	INFO	Listening on 127.0.0.1:50892
+1623119834859	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileI9lw2z"
+1623119836069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileI9lw2z\\search.json.mozlz4", (void 0)))
+1623119838519	Marionette	INFO	Listening on port 50901
+1623119838729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623119839328	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1623120017443	Marionette	INFO	Stopped listening on port 50901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ound" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileu0ZJpp"
+1623119884214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileu0ZJpp\\search.json.mozlz4", (void 0)))
+1623119886522	Marionette	INFO	Listening on port 50998
+1623119886980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623119889426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1623119896761	Marionette	INFO	Stopped listening on port 50998
+1623120327667	geckodriver	INFO	Listening on 127.0.0.1:51117
+1623120330702	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofiletZCuN0"
+1623120331827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofiletZCuN0\\search.json.mozlz4", (void 0)))
+1623120334058	Marionette	INFO	Listening on port 51125
+1623120334575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623120339455	Marionette	INFO	Stopped listening on port 51125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623120350672	geckodriver	INFO	Listening on 127.0.0.1:51175
+1623120353701	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileEErCMY"
+1623120354782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileEErCMY\\search.json.mozlz4", (void 0)))
+1623120357062	Marionette	INFO	Listening on port 51183
+1623120357083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623120360545	Marionette	INFO	Stopped listening on port 51183
+1623121087465	geckodriver	INFO	Listening on 127.0.0.1:51256
+1623121090494	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileKKlN3g"
+1623121091596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileKKlN3g\\search.json.mozlz4", (void 0)))
+1623121093879	Marionette	INFO	Listening on port 51264
+1623121094366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623121095001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1623121101570	Marionette	INFO	Stopped listening on port 51264
+1623125922611	geckodriver	INFO	Listening on 127.0.0.1:52670
+1623125925636	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofilewhitF2"
+1623125926878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofilewhitF2\\search.json.mozlz4", (void 0)))
+1623125929190	Marionette	INFO	Listening on port 52678
+1623125929516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623125930111	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1623125946746	Marionette	INFO	Stopped listening on port 52678
+1623139213112	geckodriver	INFO	Listening on 127.0.0.1:57047
+1623139216146	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileFLBfKm"
+1623139217376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileFLBfKm\\search.json.mozlz4", (void 0)))
+1623139219890	Marionette	INFO	Listening on port 57055
+1623139220068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623139220967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1623139230639	Marionette	INFO	Stopped listening on port 57055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623232891189	geckodriver	INFO	Listening on 127.0.0.1:61730
+1623232894213	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileBFXobW"
+1623232895366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wanglei\\AppData\\Local\\Temp\\rust_mozprofileBFXobW\\search.json.mozlz4", (void 0)))
+1623232897595	Marionette	INFO	Listening on port 61738
+1623232898086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623232898891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+[Child 13168, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1623232904714	Marionette	INFO	Stopped listening on port 61738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
